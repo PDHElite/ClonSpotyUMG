@@ -10,7 +10,7 @@
 /*.tx*/
 .side-bar__list {
     list-style: none;
-    padding: 0;
+    padding: 10;
     margin: 0;
     opacity: .8;
 }
